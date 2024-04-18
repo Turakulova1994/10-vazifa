@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head1 {
+    background-color: purple;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.div1 {
+    background-color: aqua;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 20px 30px;
+}
+.div2 {
+    background-color: aqua;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 20px 30px;
+}
+.div3 {
+    background-color: aqua;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 20px 30px;
+}
+.blush {
+    padding-left: 50px;
+    padding-right: 50px;
+}
